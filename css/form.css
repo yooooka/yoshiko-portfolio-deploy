@@ -17,7 +17,7 @@
 .form-captcha:hover { border: 1px solid #aaa; }
 .form-captcha-image { border: 1px solid #aaa; -moz-border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px; }
 
-.form-collapse-table{ height:58px;  border:1px solid #ccc; background:#f5f5f5 url(/images/soft-grad.png) repeat-x; position:relative; }
+.form-collapse-table{ height:58px;  border:1px solid #ccc; background:#f5f5f5 url(http://yoshiko.901farm.kaki/images/soft-grad.png) repeat-x; position:relative; }
 .form-collapse-left{ }
 .form-collapse-mid{ text-shadow:0px 2px 0px #fff; float:left; font-size:18px; margin:16px 45px 16px 20px; }
 
@@ -40,8 +40,8 @@
 .form-submit-print{ padding:1px 6px; }
 
 .form-collapse-right{ position:absolute; right:0px; height:58px; width:40px; }
-.form-collapse-right-show{ background: url(/images/arrow-open.png) no-repeat center; }
-.form-collapse-right-hide{ background: url(/images/arrow-closed.png) no-repeat center; }
+.form-collapse-right-show{ background: url(http://yoshiko.901farm.kaki/images/arrow-open.png) no-repeat center; }
+.form-collapse-right-hide{ background: url(http://yoshiko.901farm.kaki/images/arrow-closed.png) no-repeat center; }
 .form-collapse-hidden { display: none; }
 .form-grading-item { margin-bottom: 3px; }
 .form-header { margin:0px; }
